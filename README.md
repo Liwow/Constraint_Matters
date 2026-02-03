@@ -22,7 +22,7 @@ Model reduction is a powerful way to accelerate large-scale Mixed-Integer Linear
 
 ## 🏗️ Framework
 
-![Framework Illustration](assets/figures/ICLR_framework.pdf)
+![Framework Illustration](assets/ICLR_framework.pdf)
 *Figure: Overview of the multi-modal representation and constraint reduction pipeline.*
 
 ---
