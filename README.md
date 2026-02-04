@@ -1,6 +1,6 @@
 # Constraint Matters: Multi-modal Representation for Reducing Mixed-Integer Linear Programming
 
-[![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2508.18742v3)
+[![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2508.18742)
 [![Python-3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/)
 [![License-MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
