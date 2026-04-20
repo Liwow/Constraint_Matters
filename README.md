@@ -109,7 +109,7 @@ Put the trained model into the models folder, then
 ```
 python model_test_SCIP.py
 
-python model_test.py
+python model_test.py # Gurobi
 ```
 
 all solver logs will be saved in logs folder.
