@@ -34,7 +34,7 @@ torch.cuda.manual_seed(0)
 parser = argparse.ArgumentParser(description='test')
 parser.add_argument('model', type=str, help='taskName', nargs='?', default="CA_anchor5")
 parser.add_argument('instance', type=str, help='instanceName', nargs='?', default="CA")
-parser.add_argument("-n", '--num', type=int, help='test number', default=30)
+parser.add_argument("-n", '--num', type=int, help='test number', default=100)
 parser.add_argument("-s", '--solver', type=bool, help='is solver', default=True)
 parser.add_argument("-b", '--bks', type=bool, help='is bks', default=False)
 
